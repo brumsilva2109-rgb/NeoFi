@@ -120,3 +120,23 @@ h1{
     text-decoration: none;
 }
 
+.section-partners{
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0;
+    background-color: var(--color-gray4);
+}
+
+.content-partners{
+    color: var(--color-gray1);
+    font-size: var(--font-size-text1);
+    font-family: var(--font-family-alexandria);
+}
+
+.container-partners{
+    display: flex;
+    gap: 5opx;
+}
+
